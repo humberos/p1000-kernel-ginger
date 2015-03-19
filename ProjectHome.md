@@ -1,0 +1,1 @@
+Kernel for Galaxy Tab P1000[L|N]
